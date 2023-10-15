@@ -1,4 +1,3 @@
-# Tetris-Game-with-object-detection
 
 <!DOCTYPE html>
 <html lang="en">
@@ -28,6 +27,7 @@
 
 <h2>Gameplay Experience</h2>
 <p>To get an idea of how the game operates and the sensation of its mechanics, check out <a href="Link-to-the-GIF-here">this GIF</a>.</p>
+https://github.com/Tommy1125/Tetris-Game-with-object-detection
 
 <h2>Scrum Overview</h2>
 <p>Here's a brief overview of our development process and the Scrum framework we've adhered to:</p>
