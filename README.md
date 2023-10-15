@@ -26,23 +26,23 @@
 <h2>Scrum Overview</h2>
 <p>Here's a brief overview of our development process and the Scrum framework we've adhered to:</p>
 <ol>
-    <li><strong>Sprint 1:</strong> Setup and initialization.
+    <li><strong>Sprint 1:</strong> Foundations and MVP Initial Phase.
         <ul>
             <li>Setting up Flask.</li>
             <li>Developing hand detection AI.</li>
             <li>Basic Tetris grid creation.</li>
         </ul>
     </li>
-    <li><strong>Sprint 2:</strong> Implementing basic gameplay features (Finishing MVP function).
+    <li><strong>Sprint 2:</strong> Completion of MVP Features.
         <ul>
             <li>Tetromino falling and movement.</li>
             <li>Line completion detection.</li>
         </ul>
     </li>
-    <li><strong>Sprint 3:</strong> Final touches and user experience enhancements.
+    <li><strong>Sprint 3:</strong> Enhancements and Final Touches.
         <ul>
-            <li>Optimizing performance.</li>
-            <li>Polishing graphics and adding score.</li>
+            <li>Optimization for improved performance.</li>
+            <li>Refinement of graphics and addition of a scoring system.</li>
         </ul>
     </li>
 </ol>
