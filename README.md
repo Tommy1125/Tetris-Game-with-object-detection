@@ -5,16 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Automatic Tetris Control Using Object Detection</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-    </style>
+
 </head>
 <body>
 
@@ -27,7 +18,7 @@
 
 <h2>Gameplay Experience</h2>
 <p>To get an idea of how the game operates and the sensation of its mechanics, check out <a href="https://github.com/Tommy1125/Tetris-Game-with-object-detection">this GIF</a>.</p>
-
+![Untitled](https://github.com/Tommy1125/Youtuber-API/assets/103258148/a5372c74-4b3d-4543-84a3-3eced2bb1599)
 
 <h2>Scrum Overview</h2>
 <p>Here's a brief overview of our development process and the Scrum framework we've adhered to:</p>
