@@ -1,0 +1,66 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %}
+    Top Page
+{% endblock %}
+
+{% block content %}
+<center>
+<h1>Wipe Quality Checker Web: Toluca</h1>
+</center>
+<div class="footer">
+    <img class="footer-divider" src="/static/img/BS_2.PNG" alt="text">
+</div>
+    <div class="container-fluid content-container">
+        
+        <form action="/general" method="POST">
+            <div class="mb-3 row">
+                <label for="testIdInput" class="col-sm-2 col-form-label">Test ID</label>
+                <div class="col-sm-5 offset-sm-3">
+                  <input type="text" class="form-control" id="testIdInput" name="test_id" placeholder="TS23-0000">
+                </div>
+            </div>
+            
+            
+            <div class="mb-3 row">
+                <label for="cycleInput" class="col-sm-2 col-form-label">Cycles</label>
+                <div class="col-sm-5 offset-sm-3">
+                  <input type="text" class="form-control" id="cycleInput" name="cycles" placeholder="0K">
+                </div>
+            </div>               
+            
+            <button type="submit" class="btn btn-primary">Check status</button>
+            </div>
+        </form>
+            
+
+    </div>
+
+  
+    <style>
+        .content-container {
+            text-align: center;
+            padding: 2rem 0;
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .footer {
+            text-align: right;
+        }
+
+        .footer-divider {
+            width: 1500px;
+            height: 10px;
+            margin: 1rem auto;
+            display: block;
+        }
+    </style>
+    
+    <script src="static/js/jquery.min.js"></script>
+    <script src="static/js/popper.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+
+{% endblock %}

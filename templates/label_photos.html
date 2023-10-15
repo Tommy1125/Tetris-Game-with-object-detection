@@ -1,0 +1,31 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}WQ photos{% endblock %}
+
+{% block content%}
+
+
+
+<center>
+<h1>Tetris Game</h1>
+
+<img src="{{ video_feed_url }}" width="320" height="240">
+</center>
+<br>
+<br>
+
+<style>
+canvas {
+        border: 1px solid black;
+        display: block;
+        margin: 20px auto;
+    }
+</style>
+</head>
+<body>
+<canvas id="tetris" width="240" height="480"></canvas>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+<script src="static/js/tetris.js"></script>
+
+
+
+{% endblock %}
