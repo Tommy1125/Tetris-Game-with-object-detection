@@ -17,8 +17,8 @@
 <p>Have you ever wanted to play Tetris without pressing any buttons? Or perhaps watch a computer understand and navigate the game using object detection? If so, you're in the right place. Our project bridges the gap between classic gaming and modern technology, creating an exhilarating experience for all!</p>
 
 <h2>Gameplay Experience</h2>
-<p>To get an idea of how the game operates and the sensation of its mechanics, check out <a href="https://github.com/Tommy1125/Tetris-Game-with-object-detection">this GIF</a>.</p>
-https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/0d676dd6-68ae-4fde-a3c3-df130be81dfa
+<p>To get an idea of how the game operates and the sensation of its mechanics, check out <a href="[https://github.com/Tommy1125/Tetris-Game-with-object-detection](https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/0d676dd6-68ae-4fde-a3c3-df130be81dfa)">this GIF</a>.</p>
+
 
 <h2>Scrum Overview</h2>
 <p>Here's a brief overview of our development process and the Scrum framework we've adhered to:</p>
