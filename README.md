@@ -18,6 +18,7 @@
 
 <h2>Gameplay Experience</h2>
 <p>To get an idea of how the game operates and the sensation of its mechanics, check out <a href="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/0d676dd6-68ae-4fde-a3c3-df130be81dfa">this GIF</a>.</p>
+<p>We are on Sprint 3. (15-Oct)</p>
 
 
 <h2>Scrum Overview</h2>
@@ -50,10 +51,10 @@
         <pre><code>pip install Flask</code></pre>
     </li>
     <li><strong>Clone the Repository:</strong> 
-        <pre><code>git clone [your-repository-link-here]</code></pre>
+        <pre><code>git clone [https://github.com/Tommy1125/Tetris-Game-with-object-detection]</code></pre>
     </li>
     <li><strong>Run the Game:</strong> Navigate to the project directory and execute:
-        <pre><code>python main.py</code></pre>
+        <pre><code>python app.py</code></pre>
     </li>
 </ol>
 
