@@ -19,7 +19,7 @@
 <h2>Gameplay Experience</h2>
 <p>To get an idea of how the game operates and the sensation of its mechanics, check out the GIF below:</p>
 <p>Sprint3</p>
-<img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/060517a3-c9f7-4302-bfaf-30f223fbd6d1" alt="Tetris Game with Object Detection GIF">
+<img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/3260fe99-ef24-45fe-b0d0-f154b5b666ff" alt="Tetris Game with Object Detection GIF">
 <p>Sprint2</p>
 <img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/0d676dd6-68ae-4fde-a3c3-df130be81dfa" alt="Tetris Game with Object Detection GIF">
 
@@ -32,7 +32,7 @@
     <li><strong>Sprint 1:</strong> Foundations and MVP Initial Phase.
         <ul>
             <li>Setting up Flask.</li>
-            <li>Developing hand detection AI.</li>
+            <li>Developing hand detection AI by Yolo.</li>
             <li>Basic Tetris grid creation.</li>
         </ul>
     </li>
@@ -45,6 +45,7 @@
     <li><strong>Sprint 3:</strong> Enhancements and Final Touches.
         <ul>
             <li>Optimization for improved performance.</li>
+            <li>Updated hand detection AI by Mediapipe.</li>
             <li>Refinement of graphics and addition of a scoring system.</li>
         </ul>
     </li>
