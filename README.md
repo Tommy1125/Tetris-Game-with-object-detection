@@ -20,8 +20,6 @@
 <p>To get an idea of how the game operates and the sensation of its mechanics, check out the GIF below:</p>
 <p>Sprint3</p>
 <img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/3260fe99-ef24-45fe-b0d0-f154b5b666ff" alt="Tetris Game with Object Detection GIF">
-<p>Sprint2</p>
-<img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/0d676dd6-68ae-4fde-a3c3-df130be81dfa" alt="Tetris Game with Object Detection GIF">
 
 <p>We are on Sprint 3. (15-Oct-2023)</p>
 
@@ -66,6 +64,9 @@
 
 <h2>Feedback</h2>
 <p>We're always open to feedback and suggestions. If you encounter any issues or have ideas to enhance the game, please open an issue or submit a pull request!</p>
+
+<p>Product at Sprint2</p>
+<img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/0d676dd6-68ae-4fde-a3c3-df130be81dfa" alt="Tetris Game with Object Detection GIF">
 
 </body>
 </html>
