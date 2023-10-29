@@ -21,7 +21,7 @@
 <p>Sprint3</p>
 <img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/3260fe99-ef24-45fe-b0d0-f154b5b666ff" alt="Tetris Game with Object Detection GIF">
 
-<p>We are on Sprint 3. (15-Oct-2023)</p>
+<p>We are on Sprint 3. (28-Oct-2023)</p>
 
 
 <h2>Scrum Overview</h2>
@@ -44,18 +44,18 @@
         <ul>
             <li>Optimization for improved performance.</li>
             <li>Updated hand detection AI by Mediapipe.</li>
-            <li>Refinement of graphics and addition of a scoring system.</li>
+            <li>Refinement of graphics and addition of a speed change function.</li>
         </ul>
     </li>
 </ol>
 
 <h2>Getting Started</h2>
 <ol>
-    <li><strong>Prerequisites:</strong> Ensure you have Flask installed.
-        <pre><code>pip install Flask</code></pre>
-    </li>
     <li><strong>Clone the Repository:</strong> 
-        <pre><code>git clone [https://github.com/Tommy1125/Tetris-Game-with-object-detection]</code></pre>
+        <pre><code>git clone https://github.com/Tommy1125/Tetris-Game-with-object-detection</code></pre>
+    </li>
+    <li><strong>Prerequisites:</strong> Ensure you have Flask installed.
+        <pre><code>pip install requierment.txt</code></pre>
     </li>
     <li><strong>Run the Game:</strong> Navigate to the project directory and execute:
         <pre><code>python app.py</code></pre>
