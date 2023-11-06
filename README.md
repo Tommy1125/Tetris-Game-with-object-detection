@@ -19,7 +19,7 @@
 <h2>Gameplay Experience</h2>
 <p>To get an idea of how the game operates and the sensation of its mechanics, check out the GIF below:</p>
 <p>Sprint3</p>
-<img src="https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/3260fe99-ef24-45fe-b0d0-f154b5b666ff" alt="Tetris Game with Object Detection GIF">
+<img src="!https://github.com/Tommy1125/Tetris-Game-with-object-detection/assets/103258148/1f0ede4d-d9b2-4ac9-9a0e-3af16a96b287" alt="Tetris Game with Object Detection GIF">
 
 <p>We are on Sprint 3. (28-Oct-2023)</p>
 
